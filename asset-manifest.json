@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nexona/static/css/main.a5abdeae.css",
+    "main.js": "/nexona/static/js/main.a552e31b.js",
+    "static/js/453.0297a6b4.chunk.js": "/nexona/static/js/453.0297a6b4.chunk.js",
+    "static/media/sports-tools.jpg": "/nexona/static/media/sports-tools.1798edae1c0f2e4c9a8a.jpg",
+    "static/media/Men-Women Fashion.jpg": "/nexona/static/media/Men-Women Fashion.e8c6774adaf68f9c6f55.jpg",
+    "static/media/carousel image 1.png": "/nexona/static/media/carousel image 1.0f71b9f488198d19e437.png",
+    "static/media/carousel image 4.gif": "/nexona/static/media/carousel image 4.01cadfc7ec31b44f4c2f.gif",
+    "static/media/carousel image 5.jpg": "/nexona/static/media/carousel image 5.f4820d58f8c2b2c0a4fd.jpg",
+    "static/media/carousel image 3.jpg": "/nexona/static/media/carousel image 3.f982163f51f561be0d9a.jpg",
+    "static/media/loader.gif": "/nexona/static/media/loader.8b2cbfe015568d08a138.gif",
+    "static/media/carousel image 2.jpg": "/nexona/static/media/carousel image 2.e8e482e417eae75ec315.jpg",
+    "static/media/returnOrder.png": "/nexona/static/media/returnOrder.e238461ef5444b4d197b.png",
+    "static/media/main-logo.png": "/nexona/static/media/main-logo.f2208da02b667875783a.png",
+    "static/media/warranty.png": "/nexona/static/media/warranty.90c02591e13268f9cc4e.png",
+    "static/media/shipping.png": "/nexona/static/media/shipping.7280a446c8e38c22ec92.png",
+    "static/media/slick.svg": "/nexona/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nexona/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nexona/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/nexona/index.html",
+    "static/media/slick.woff": "/nexona/static/media/slick.295183786cd8a1389865.woff",
+    "main.a5abdeae.css.map": "/nexona/static/css/main.a5abdeae.css.map",
+    "main.a552e31b.js.map": "/nexona/static/js/main.a552e31b.js.map",
+    "453.0297a6b4.chunk.js.map": "/nexona/static/js/453.0297a6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5abdeae.css",
+    "static/js/main.a552e31b.js"
+  ]
+}
