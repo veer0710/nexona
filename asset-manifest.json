@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nexona/static/css/main.d0b8eca3.css",
+    "main.css": "/nexona/static/css/main.3309dbaf.css",
     "main.js": "/nexona/static/js/main.ffe08d59.js",
     "static/js/453.0297a6b4.chunk.js": "/nexona/static/js/453.0297a6b4.chunk.js",
     "static/media/sports-tools.jpg": "/nexona/static/media/sports-tools.1798edae1c0f2e4c9a8a.jpg",
@@ -20,12 +20,12 @@
     "static/media/slick.ttf": "/nexona/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/nexona/index.html",
     "static/media/slick.woff": "/nexona/static/media/slick.295183786cd8a1389865.woff",
-    "main.d0b8eca3.css.map": "/nexona/static/css/main.d0b8eca3.css.map",
+    "main.3309dbaf.css.map": "/nexona/static/css/main.3309dbaf.css.map",
     "main.ffe08d59.js.map": "/nexona/static/js/main.ffe08d59.js.map",
     "453.0297a6b4.chunk.js.map": "/nexona/static/js/453.0297a6b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0b8eca3.css",
+    "static/css/main.3309dbaf.css",
     "static/js/main.ffe08d59.js"
   ]
 }
