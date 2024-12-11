@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nexona/static/css/main.782abdd3.css",
-    "main.js": "/nexona/static/js/main.ffe08d59.js",
+    "main.js": "/nexona/static/js/main.8d0334c5.js",
     "static/js/453.0297a6b4.chunk.js": "/nexona/static/js/453.0297a6b4.chunk.js",
     "static/media/sports-tools.jpg": "/nexona/static/media/sports-tools.1798edae1c0f2e4c9a8a.jpg",
     "static/media/Men-Women Fashion.jpg": "/nexona/static/media/Men-Women Fashion.e8c6774adaf68f9c6f55.jpg",
@@ -21,11 +21,11 @@
     "index.html": "/nexona/index.html",
     "static/media/slick.woff": "/nexona/static/media/slick.295183786cd8a1389865.woff",
     "main.782abdd3.css.map": "/nexona/static/css/main.782abdd3.css.map",
-    "main.ffe08d59.js.map": "/nexona/static/js/main.ffe08d59.js.map",
+    "main.8d0334c5.js.map": "/nexona/static/js/main.8d0334c5.js.map",
     "453.0297a6b4.chunk.js.map": "/nexona/static/js/453.0297a6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.782abdd3.css",
-    "static/js/main.ffe08d59.js"
+    "static/js/main.8d0334c5.js"
   ]
 }
