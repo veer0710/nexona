@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nexona/static/css/main.1a801a70.css",
-    "main.js": "/nexona/static/js/main.a552e31b.js",
+    "main.css": "/nexona/static/css/main.4b3cb13b.css",
+    "main.js": "/nexona/static/js/main.82c3eefd.js",
     "static/js/453.0297a6b4.chunk.js": "/nexona/static/js/453.0297a6b4.chunk.js",
     "static/media/sports-tools.jpg": "/nexona/static/media/sports-tools.1798edae1c0f2e4c9a8a.jpg",
     "static/media/Men-Women Fashion.jpg": "/nexona/static/media/Men-Women Fashion.e8c6774adaf68f9c6f55.jpg",
@@ -20,12 +20,12 @@
     "static/media/slick.ttf": "/nexona/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/nexona/index.html",
     "static/media/slick.woff": "/nexona/static/media/slick.295183786cd8a1389865.woff",
-    "main.1a801a70.css.map": "/nexona/static/css/main.1a801a70.css.map",
-    "main.a552e31b.js.map": "/nexona/static/js/main.a552e31b.js.map",
+    "main.4b3cb13b.css.map": "/nexona/static/css/main.4b3cb13b.css.map",
+    "main.82c3eefd.js.map": "/nexona/static/js/main.82c3eefd.js.map",
     "453.0297a6b4.chunk.js.map": "/nexona/static/js/453.0297a6b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a801a70.css",
-    "static/js/main.a552e31b.js"
+    "static/css/main.4b3cb13b.css",
+    "static/js/main.82c3eefd.js"
   ]
 }
